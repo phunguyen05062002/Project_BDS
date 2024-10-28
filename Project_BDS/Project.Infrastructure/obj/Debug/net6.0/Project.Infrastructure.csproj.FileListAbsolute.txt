@@ -1,0 +1,17 @@
+D:\C#\Project_BDS\Project.Infrastructure\bin\Debug\net6.0\Project.Infrastructure.deps.json
+D:\C#\Project_BDS\Project.Infrastructure\bin\Debug\net6.0\Project.Infrastructure.runtimeconfig.json
+D:\C#\Project_BDS\Project.Infrastructure\bin\Debug\net6.0\Project.Infrastructure.dll
+D:\C#\Project_BDS\Project.Infrastructure\bin\Debug\net6.0\Project.Infrastructure.pdb
+D:\C#\Project_BDS\Project.Infrastructure\bin\Debug\net6.0\Project_BDS.Domain.dll
+D:\C#\Project_BDS\Project.Infrastructure\bin\Debug\net6.0\Project_BDS.Domain.pdb
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.csproj.AssemblyReference.cache
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.AssemblyInfoInputs.cache
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.AssemblyInfo.cs
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project..A2F26F6C.Up2Date
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.dll
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\refint\Project.Infrastructure.dll
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.pdb
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\Project.Infrastructure.genruntimeconfig.cache
+D:\C#\Project_BDS\Project.Infrastructure\obj\Debug\net6.0\ref\Project.Infrastructure.dll

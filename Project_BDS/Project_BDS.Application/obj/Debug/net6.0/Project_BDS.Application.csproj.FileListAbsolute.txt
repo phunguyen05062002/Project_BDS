@@ -1,0 +1,15 @@
+D:\C#\Project_BDS\Project_BDS.Application\bin\Debug\net6.0\Project_BDS.Application.deps.json
+D:\C#\Project_BDS\Project_BDS.Application\bin\Debug\net6.0\Project_BDS.Application.dll
+D:\C#\Project_BDS\Project_BDS.Application\bin\Debug\net6.0\Project_BDS.Application.pdb
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.AssemblyInfoInputs.cache
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.AssemblyInfo.cs
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.csproj.CoreCompileInputs.cache
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.dll
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\refint\Project_BDS.Application.dll
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.pdb
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\ref\Project_BDS.Application.dll
+D:\C#\Project_BDS\Project_BDS.Application\bin\Debug\net6.0\Project_BDS.Domain.dll
+D:\C#\Project_BDS\Project_BDS.Application\bin\Debug\net6.0\Project_BDS.Domain.pdb
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_BDS.Application.csproj.AssemblyReference.cache
+D:\C#\Project_BDS\Project_BDS.Application\obj\Debug\net6.0\Project_.202DBAB5.Up2Date
